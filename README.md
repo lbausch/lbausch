@@ -1,3 +1,3 @@
 <h3>🏗️ Linux DevOps Engineer</h3>
 
-Red Hat Certified Professional
+Red Hat Certified Engineer
